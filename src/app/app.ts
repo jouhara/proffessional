@@ -32,7 +32,7 @@ export class App {
   readonly skills = [
     {name:'Frontend', number:'01', tools:['Angular','React','TypeScript','JavaScript','HTML & CSS','SCSS','Bootstrap','Material UI']},
     {name:'Backend', number:'02', tools:['Node.js','Express','Python','Django','Java']},
-    {name:'Data & platforms', number:'03', tools:['PostgreSQL','MongoDB','MySQL','SQL','WordPress']}
+    {name:'Data & platforms', number:'03', tools:['PostgreSQL','MongoDB','MySQL','SQL']}
   ];
   readonly roles = [
     {title:'Full Stack Software Developer',company:'KnoDTec Solutions Private Limited',date:'JAN 2024 — PRESENT',type:'CURRENT ROLE',location:'Bengaluru · Full-time'},
